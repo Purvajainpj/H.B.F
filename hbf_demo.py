@@ -945,7 +945,7 @@ if st.session_state.user_input:
     st.session_state.user_input = ""
 
     # Force a rerun to update the sidebar with new follow-up questions
-    #st.experimental_rerun()
+    st.experimental_rerun()
 
 
 
