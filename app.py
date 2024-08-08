@@ -73,7 +73,7 @@ ROLE = st.session_state.role
 
 ############################################################## Log-IN Module ##########################################################    
 
-st.title("H.B. Fuller ChatGPT 🚀")
+st.title("Enterprise Chat")
 
 
 OPENAI_API_KEY = "f1b014707f03408d90487d939f6a4afd"
