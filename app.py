@@ -80,9 +80,9 @@ OPENAI_API_KEY = "f1b014707f03408d90487d939f6a4afd"
 OPENAI_API_ENDPOINT = "https://openai-leap.openai.azure.com/"
 OPENAI_API_VERSION = "2024-02-15-preview"
 
-AZURE_COGNITIVE_SEARCH_SERVICE_NAME = "others"
-AZURE_COGNITIVE_SEARCH_API_KEY = "2oesXYJbWbYwVkfc2ltLNdfaEttwNs98qNMwLNLAXIAzSeCf4CS7"
-AZURE_COGNITIVE_SEARCH_ENDPOINT = "https://others.search.windows.net"
+AZURE_COGNITIVE_SEARCH_SERVICE_NAME = "basamh-search-service"
+AZURE_COGNITIVE_SEARCH_API_KEY = "BFrdhi0CwueMJthIL1rQPEEN7dIwMMw50LhOA3kiHwAzSeCG6eHq"
+AZURE_COGNITIVE_SEARCH_ENDPOINT = "https://basamh-search-service.search.windows.net"
 azure_credential = AzureKeyCredential(AZURE_COGNITIVE_SEARCH_API_KEY)
 
 AZURE_COGNITIVE_SEARCH_INDEX_NAME = "role_hbf"
